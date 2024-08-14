@@ -1,0 +1,44 @@
+title: Tech Horizons
+subtitle: Exploring the Next Frontier in Technology
+author: Jane Smith
+description: In-depth discussions with innovators and visionaries shaping the future of technology.
+image: /images/tech-horizons-artwork.jpg
+language: en-us
+category: Technology
+format: audio/mpeg
+link: https://nangjang.github.io/Podcast-Feed
+item:
+  - title: "EP01-The Rise of Quantum Computing"
+    description: Jane Smith and guest Dr. Alice Roberts discuss the breakthroughs in quantum computing and what it means for the tech industry in the coming years.
+    published: Mon, 15 Jan 2024 10:00:00 GMT
+    file: /audio/TH01.mp3
+    duration: 00:07:45
+    length: 825,324
+
+  - title: "EP02-Navigating the AI Landscape"
+    description: AI expert John Doe shares insights on the rapidly evolving AI landscape and how businesses can adapt to stay ahead of the curve.
+    published: Mon, 22 Jan 2024 10:00:00 GMT
+    file: /audio/TH02.mp3
+    duration: 00:08:30
+    length: 890,245
+
+  - title: "EP03-The Future of Cybersecurity"
+    description: Cybersecurity specialist Lisa Wong discusses the latest trends in cybersecurity and the importance of staying vigilant in a digital world.
+    published: Mon, 29 Jan 2024 10:00:00 GMT
+    file: /audio/TH03.mp3
+    duration: 00:06:50
+    length: 720,100
+
+  - title: "EP04-Blockchain Beyond Bitcoin"
+    description: Blockchain expert Mark Evans explores the potential applications of blockchain technology beyond cryptocurrencies and its impact on various industries.
+    published: Mon, 05 Feb 2024 10:00:00 GMT
+    file: /audio/TH04.mp3
+    duration: 00:09:20
+    length: 960,487
+
+  - title: "EP05-Sustainable Tech Innovations"
+    description: Environmental technologist Sarah Green discusses how technology is driving sustainability and the latest innovations aimed at preserving our planet.
+    published: Mon, 12 Feb 2024 10:00:00 GMT
+    file: /audio/TH05.mp3
+    duration: 00:08:00
+    length: 845,789
